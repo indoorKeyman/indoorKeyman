@@ -15,4 +15,11 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-0D0208?style=flat-square&logo=javascript">
 </div>
 
+<br/>
+<br/>
+<br/>
+<br/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=indoorKeyman&show_icons=true&theme=blue-green)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)

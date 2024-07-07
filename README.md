@@ -16,6 +16,17 @@
 </p>
 
 
+> ### Skills<br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" height="20"/>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" height="20"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" height="20"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="20"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=black" height="20"/>
+</p>
+
+<br/>
+
 # 🤙 Contact
 
 > 이메일 : bonjae95@gmail.com

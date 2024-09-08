@@ -1,7 +1,6 @@
 # 😊환영합니다!!!
 
-> 새로운 기술에 배우고 도전하는 엔지니어 입니다!<br/>
-> Drive myself!
+> 멋을 아는 **BE Developer 구본재**의 GitHub입니다!<br/>
 
 <br/>
 

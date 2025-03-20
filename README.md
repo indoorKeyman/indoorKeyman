@@ -7,9 +7,8 @@
 # 프로젝트
 |기간|프로젝트|설명|역할|기타
 |------|------|---|---|------|
-|25.01 ~ 25.01|[ASK 2.0](https://github.com/indoorKeyman/Ask2.0)|ASK 업그레이드|Spring Cloud MSA, Refresh & Access 토큰 인증, 풀스택|개인 프로젝트|
+|24.08 ~ 25.03|[ASK 2.0]([https://github.com/indoorKeyman/Ask2.0](https://github.com/indoorKeyman/Ask2.0_mobile))|RAG를 활용한 채용 플랫폼|Spring Cloud MSA, 젠킨스, 풀스택|개인 프로젝트|
 |24.11 ~ 24.12|[BarrierFree](https://github.com/KDTlatteishorse/back-end-bf)|베리어 프리 헬스 케어|Refresh & Access 토큰 인증, ERD, 백엔드 API|팀 프로젝트|
-|24.08 ~ 24.09|[ASK](https://github.com/indoorKeyman/Ask_)|RAG를 활용한 채용 서비스|EC2 Docker 환경, RAG, JWT 토큰 인증, 풀스택|개인 프로젝트|
 |24.06 ~ 24.07|[MilGam](https://github.com/indoorKeyman/crowdm)|인구 밀집도 감지 및 이상행동 탐지 서비스|GCP서버에 AI 모델 구동 환경, RAG, ERD, 백엔드 API, 프론트 layout 개발|KT AIVLE 최우수|
 |23.09 ~ 23.12|[Air Map](https://github.com/indoorKeyman/Air_map_project)|공항 시설 정보 서비스|프론트 개발|팀 프로젝트|
 
